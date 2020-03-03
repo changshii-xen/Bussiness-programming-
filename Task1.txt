@@ -1,0 +1,21 @@
+Disadvantages:
+Very rigid
+
+Least flexible
+
+Software is developed during the implementation phase, so no early prototypes of the software are produced
+
+If any changes happen in midway, then the test documents along with requirement documents has to be updated
+
+Risky
+
+Advantages:
+Easy to use
+
+Simple to use
+
+Testing activities like planning, test designing happens well before coding.
+
+Time saving, quick
+
+Hence higher chance of success over the waterfall model

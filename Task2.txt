@@ -1,0 +1,19 @@
+Advantages:
+Users are actively involved in the development
+
+Since in this methodology a working model of the system is provided, the users get a better understanding of the system being developed.
+
+Errors can be detected much earlier.
+
+Quicker user feedback is available leading to better solutions.
+
+Missing functionality can be identified easily
+
+Disadvantages:
+Leads to implementing and then repairing way of building systems.
+
+Practically, this methodology may increase the complexity of the system as scope of the system may expand beyond original plans.
+
+Incomplete application may cause application not to be used as the
+full system was designed
+Incomplete or inadequate problem analysis.

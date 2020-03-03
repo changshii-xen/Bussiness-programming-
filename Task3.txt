@@ -1,0 +1,28 @@
+1. Waterfall Model
+Waterfall is the oldest and most straightforward of the structured SDLC methodologies.Basically finshing one phase and moving to the next phase
+
+It lacks Fexibility
+
+2. V-Shaped Model
+Also known as the Verification and Validation model.Simalar to the  Waterfall, each stage begins only after the previous one has ended.
+
+How ever when using the model it is difficult to go back and make changes.
+
+3. Iterative Model
+The Iterative model is repetition incarnate. This model finishes a phase of the product then moves on to a new face. simply brakes the final product into smaller bits the puts it back together a one complete product
+
+This model uses alot of resourses.
+4. Spiral Model
+One of the most flexible SDLC methodologies, the Spiral model takes a cue from the Iterative model and its repetition; the project passes through four phases over and over in a “spiral” until completed, allowing for multiple rounds of refinement.
+
+This model allows for the building of a highly customized product, and user feedback can be incorporated from early on in the project. But the risk you run is creating a never-ending spiral for a project that goes on and on.
+
+5. Big Bang Model
+A bit of an anomaly among SDLC methodologies, the Big Bang model follows no specific proces its coming together with littel planning and see where you'll land up
+
+Big Bang is not recommended for large or complex projects, as it’s a high-risk model; if the requirements are misunderstood in the beginning, you could get to the end and realize the project may have to be started all over again.
+
+6. Agile Model
+By breaking the product into cycles, the Agile model quickly delivers a working product and is considered a very realistic development approach. The model produces ongoing releases, each with small, incremental changes from the previous release. At each iteration, the product is tested.
+
+This model emphasizes interaction, as the customers, developers and testers work together throughout the project. But since this model depends heavily on customer interaction, the project can head the wrong way if the customer is not clear on the direction he or she wants to go.
